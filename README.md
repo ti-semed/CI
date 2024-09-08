@@ -1,11 +1,10 @@
 <img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-
+<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
 SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
-<img src="Imagem/logoCasaInovacao.png" style="margin-top:40px; display: block;margin-left: auto;margin-right: auto;" />
 
 ### **Introdução**
 
