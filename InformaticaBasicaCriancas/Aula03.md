@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -132,3 +132,4 @@ Ensinar as crianças a organizar seus arquivos de maneira simples e eficaz, dese
 - Prática geral de organização: 10 minutos.
 - Conclusão e revisão: 5 minutos.
 
+**Estimativa Total de Tempo: 60 minutos (1h)**

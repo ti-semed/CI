@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -151,3 +151,5 @@ Ensinar práticas essenciais de segurança digital para que as crianças possam 
 4. Proteção da Privacidade Online: 30 minutos
 5. Configurações de Segurança no Navegador: 40 minutos
 6. Revisão e Discussão Final: 20 minutos
+
+**Estimativa Total de Tempo:  160 minutos (2h40)**

@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -149,3 +149,4 @@ Capacitar as crianças a interagir com diferentes sistemas operacionais, entende
 8. Revisão: 10 minutos
 9. Conclusão: 5 minutos
 
+**Estimativa Total de Tempo: 76 minutos (1h16)**

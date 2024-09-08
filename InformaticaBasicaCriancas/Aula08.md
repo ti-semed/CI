@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -118,7 +118,8 @@ Desenvolver a coordenação motora e habilidades básicas de digitação, além 
    - **Resumo:** Detalhes sobre a tarefa de criação e formatação de um documento simples.
 
 
-#### Estimativa de Tempo para Cada Slide:
+#### Estimativa de Tempo por Slide:
+
 1. Introdução à aula (5 min)
 2. Importância da digitação (5 min)
 3. Posicionamento dos dedos no teclado (5 min)
@@ -128,5 +129,5 @@ Desenvolver a coordenação motora e habilidades básicas de digitação, além 
 7. Formatação de texto (10 min)
 8. Atividade final e conclusão (15 min)
 
-**Tempo total estimado:** 60 minutos
+**Estimativa Total de Tempo: 60 minutos (1h)**
 

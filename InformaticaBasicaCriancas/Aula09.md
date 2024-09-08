@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -7,113 +7,144 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
-### Módulo 9: **Apresentações e Criatividade com Google Slides (3 horas)**
 
-#### **Objetivo do Módulo:**
-Capacitar as crianças a criar apresentações digitais simples, incentivando a criatividade e o desenvolvimento da capacidade de comunicação visual, utilizando o Google Slides. Elas aprenderão a criar slides, adicionar texto, imagens, e explorar elementos visuais como desenhos e animações básicas.
+### Módulo 9: Apresentações e Criatividade com Google Slides
+
+
+#### Objetivo:
+Capacitar as crianças a criar apresentações digitais, incentivando a criatividade e a capacidade de comunicação visual por meio do Google Slides.
 
 
 #### Estrutura da aula:
 
-#### **Introdução ao Google Slides (20 minutos)**
-**Professor:** "Hoje vamos aprender a criar apresentações digitais! Vamos usar o Google Slides, uma ferramenta que nos ajuda a fazer apresentações coloridas e divertidas. Com ela, podemos adicionar textos, imagens, animações e muito mais! Quem aqui já viu uma apresentação feita no computador?"
+**1. Início (10 minutos):**
+- **Diálogo do professor:**
+  "Bom dia, pessoal! Hoje vamos aprender uma nova habilidade muito importante: como criar apresentações usando o Google Slides. Alguém aqui já ouviu falar dessa ferramenta? Ela nos ajuda a organizar ideias e a compartilhar informações de uma maneira criativa e visual."
 
-- **Explicação:** Apresentar o Google Slides como uma ferramenta acessível e interativa.
-- **Demonstração prática:** Mostrar como acessar o Google Slides através de uma conta Google.
-- **Atividade interativa:** Pedir para os alunos acessarem o Google Slides e criarem um novo arquivo vazio.
+- **Apresentação dos objetivos:**
+  "Nosso objetivo hoje é aprender a criar slides, adicionar texto, imagens e até algumas animações! Vamos usar nossa criatividade para fazer uma apresentação sobre um tema que vocês adoram."
 
----
 
-#### **Criação de Slides Simples (40 minutos)**
-**Professor:** "Agora, vamos começar a criar nossos slides. Primeiro, vamos escolher um título e adicionar textos para explicar sobre o que é nossa apresentação. Cada um de vocês vai pensar em algo interessante para criar, pode ser sobre um tema escolar, um animal favorito, ou até uma história inventada!"
+**2. Criando os Primeiros Slides (10 minutos):**
+- **Explicação teórica:**
+  O professor introduzirá o Google Slides, explicando sua função e mostrando como criar uma nova apresentação.
 
-- **Explicação:** Demonstrar como adicionar e formatar textos nos slides (fontes, cores, tamanho).
-- **Atividade prática:** Cada aluno cria um slide inicial com título e uma breve descrição.
-- **Dica de expansão:** Falar sobre o alinhamento do texto, destacando a importância da clareza e organização visual.
+  - **Diálogo do professor:**
+    "Para começar, precisamos criar uma nova apresentação. Vou mostrar como fazer isso. Primeiro, abrimos o Google Slides e escolhemos um layout para o nosso primeiro slide."
 
----
+  - **Demonstração de criação de slides:**
+    - **Títulos e layouts:** "Cada slide pode ter um título e um layout diferente. Podemos escolher como organizar o texto e as imagens para deixar tudo bem organizado."
+  
+- **Atividade interativa:**
+  As crianças criarão seu primeiro slide com o título "Meu Super-Herói Favorito", usando um layout básico e adicionando texto.
 
-#### **Adicionando Imagens e Elementos Visuais (40 minutos)**
-**Professor:** "Agora que já temos um título e um pouco de texto, vamos deixar nossa apresentação mais divertida! Sabem como? Com imagens! Vamos adicionar fotos e desenhos para deixar tudo mais bonito."
 
-- **Explicação:** Mostrar como pesquisar e inserir imagens no Google Slides (usando a ferramenta de busca integrada ou upload de arquivos).
-- **Atividade prática:** Os alunos inserem imagens relacionadas ao tema escolhido em seus slides.
-- **Explicação adicional:** Falar sobre o uso equilibrado de imagens para não sobrecarregar o slide.
+**3. Inserindo Imagens e Elementos Visuais (15 minutos):**
+- **Explicação teórica:**
+  O professor mostrará como adicionar imagens ao slide e ajustar o tamanho e a posição.
 
----
+  - **Diálogo do professor:**
+    "Agora que temos o título, que tal adicionar uma imagem do seu super-herói? Vou mostrar como buscar uma imagem na internet e inseri-la no slide."
 
-#### **Animações e Transições (30 minutos)**
-**Professor:** "Que tal dar movimento à nossa apresentação? Podemos fazer as imagens e os textos aparecerem de forma especial, com efeitos. Vamos aprender a usar as animações e as transições entre os slides."
+  - **Demonstração:**
+    - **Inserindo imagens:** "Podemos procurar uma imagem na internet ou usar uma que já está no computador. Vamos ajustar o tamanho para que caiba direitinho no slide."
 
-- **Explicação:** Demonstrar como adicionar animações simples (aparição, desaparecimento) e como aplicar transições entre slides.
-- **Atividade prática:** Os alunos escolhem uma animação para o texto e outra para a imagem.
-- **Dica adicional:** Mostrar como visualizar a apresentação com as animações.
+- **Atividade interativa:**
+  As crianças irão procurar e adicionar uma imagem relacionada ao tema "Meu Super-Herói Favorito" e ajustar no slide.
 
----
 
-#### **Exemplo de Apresentação Final (20 minutos)**
-**Professor:** "Agora que aprendemos a fazer os slides, vou mostrar um exemplo de como ficou minha apresentação. Assim vocês podem ter ideias para continuar melhorando a de vocês."
+**4. Personalizando com Formatação de Texto e Cores (10 minutos):**
+- **Explicação teórica:**
+  O professor ensinará como alterar as cores do texto, mudar as fontes e aplicar formatação.
 
-- **Demonstração:** Apresentar um exemplo completo com título, texto, imagem e animações.
-- **Atividade prática:** Pedir para os alunos revisarem e continuarem trabalhando em seus slides, ajustando conforme necessário.
+  - **Diálogo do professor:**
+    "Agora, vamos deixar nosso slide mais colorido! Podemos mudar a fonte do texto, alterar as cores e até ajustar o tamanho do título para que fique bem visível."
 
----
+  - **Demonstração:**
+    - **Formatação de texto:** "Aqui vocês podem escolher uma fonte diferente e brincar com as cores para deixar o slide mais bonito."
 
-#### **Conclusão e Feedback (30 minutos)**
-**Professor:** "Antes de terminar, vamos compartilhar as apresentações que vocês criaram! Vou escolher alguns de vocês para mostrar seus slides, e depois vocês podem continuar trabalhando neles em casa."
+- **Atividade interativa:**
+  As crianças vão personalizar o texto e as cores do título e do corpo do texto no slide.
 
-- **Atividade interativa:** Os alunos apresentam os slides para a turma.
-- **Feedback:** Dar feedback positivo sobre o uso de imagens e animações e sugerir melhorias.
 
----
+**5. Adicionando Animações e Transições (15 minutos):**
+- **Explicação teórica:**
+  O professor apresentará como aplicar animações nos elementos do slide e usar transições entre os slides.
 
-### 2. Estrutura do Esboço Textual da Apresentação (PowerPoint)
+  - **Diálogo do professor:**
+    "Vamos adicionar movimento aos nossos slides! Podemos animar o título, as imagens, e até mesmo aplicar transições legais quando mudamos de um slide para outro."
 
-#### **Slide 1: Título - Introdução ao Google Slides**
-- **Conteúdo:** Introdução breve sobre o Google Slides e sua utilidade.
-  - Texto: "O que é o Google Slides?"
-  - Visual: Imagem da interface do Google Slides.
+  - **Demonstração:**
+    - **Animações:** "Aqui estão as opções de animação. Podemos fazer o título aparecer de repente ou deslizar suavemente para a tela."
 
-#### **Slide 2: Criação de Slides**
-- **Conteúdo:** Instruções sobre como adicionar texto e formatar slides.
-  - Tópicos:
-    - Criar um novo slide.
-    - Inserir e formatar textos (fontes, tamanho, cores).
-  - Visual: Print screen de um slide em edição.
+- **Atividade interativa:**
+  As crianças escolherão uma animação para o texto ou imagens e uma transição para mudar entre slides.
 
-#### **Slide 3: Adicionando Imagens**
-- **Conteúdo:** Explicação de como adicionar imagens aos slides.
-  - Tópicos:
-    - Pesquisar imagens diretamente no Google Slides.
-    - Inserir e redimensionar imagens.
-  - Visual: Imagem de exemplo de slide com imagem e texto.
 
-#### **Slide 4: Aplicando Animações**
-- **Conteúdo:** Instruções sobre como aplicar animações e transições.
-  - Tópicos:
-    - Escolher animações para textos e imagens.
-    - Definir transições entre slides.
-  - Visual: Exemplo de um menu de animações no Google Slides.
+**6. Apresentação dos Projetos (30 minutos):**
+- **Diálogo do professor:**
+  "Agora é a hora de vocês mostrarem suas apresentações! Cada um vai ter a chance de compartilhar o que criou e vamos aprender juntos, dando feedback uns para os outros."
 
-#### **Slide 5: Exemplo de Apresentação**
-- **Conteúdo:** Demonstração de uma apresentação finalizada.
-  - Visual: Exemplo de dois ou três slides completos com imagens e animações.
+- **Discussão em grupo:**
+  As crianças apresentarão seus slides para a turma, explicando suas escolhas de cores, imagens e animações.
 
-#### **Slide 6: Dicas Finais**
-- **Conteúdo:** Dicas para melhorar a apresentação.
-  - Tópicos:
-    - Use fontes e cores claras.
-    - Evite excesso de informações.
-    - Escolha imagens relacionadas ao tema.
-  - Visual: Checklists visuais para cada dica.
+- **Feedback do professor e colegas:**
+  "Ótimo trabalho! Vamos ouvir o que os colegas têm a dizer. O que vocês mais gostaram na apresentação do colega? O que mais chamou a atenção?"
 
----
 
-### Estimativa de Tempo para Cada Tópico/Slide
-1. **Introdução ao Google Slides** – 20 minutos (Slide 1)
-2. **Criação de Slides** – 40 minutos (Slide 2)
-3. **Adicionando Imagens** – 40 minutos (Slide 3)
-4. **Aplicando Animações** – 30 minutos (Slide 4)
-5. **Exemplo de Apresentação** – 20 minutos (Slide 5)
-6. **Conclusão e Feedback** – 30 minutos (Slide 6)
+**7. Encerramento (10 minutos):**
+- **Resumo do professor:**
+  "Hoje aprendemos a criar apresentações no Google Slides e vimos como podemos usar texto, imagens e animações para tornar nossas ideias mais interessantes. Vocês fizeram um ótimo trabalho!"
+
+- **Tarefa de casa (opcional):**
+  "Se quiserem, podem continuar praticando em casa e trazer uma nova apresentação para a próxima aula. Adoraria ver o que mais vocês conseguem criar!"
+
+
+#### Esboço da Apresentação
+
+**Título: Apresentações e Criatividade com Google Slides**
+
+1. **Introdução ao Google Slides:**
+   - **Conteúdo:** "O que é o Google Slides e por que usá-lo?"
+   - **Explicação:** Introdução à ferramenta, suas funcionalidades básicas e importância no mundo digital.
+   - **Imagem recomendada:** Tela inicial do Google Slides com exemplos de slides.
+
+2. **Criando os Primeiros Slides:**
+   - **Conteúdo:** "Como criar um novo slide e escolher um layout."
+   - **Explicação:** Passos para criar um slide, adicionar título e escolher o layout adequado.
+   - **Imagem recomendada:** Exemplo de slide com título e layout selecionado.
+
+3. **Inserindo Imagens e Elementos Visuais:**
+   - **Conteúdo:** "Adicionando imagens e ajustando seu tamanho e posição."
+   - **Explicação:** Instruções para buscar e inserir imagens, além de ajustar o visual.
+   - **Imagem recomendada:** Exemplo de slide com imagem de um super-herói.
+
+4. **Personalizando com Formatação de Texto e Cores:**
+   - **Conteúdo:** "Alterando fontes, cores e tamanhos de texto."
+   - **Explicação:** Como personalizar o texto e escolher a formatação adequada para uma boa apresentação.
+   - **Imagem recomendada:** Slide com diferentes opções de fontes e cores aplicadas.
+
+5. **Adicionando Animações e Transições:**
+   - **Conteúdo:** "Aplicando animações e transições entre os slides."
+   - **Explicação:** Como aplicar efeitos de animação nos textos e imagens, e como usar transições de forma equilibrada.
+   - **Imagem recomendada:** Exemplo de slide com opções de animações visíveis.
+
+6. **Apresentação e Feedback:**
+   - **Conteúdo:** "Compartilhando o que foi criado e recebendo feedback."
+   - **Explicação:** A importância de apresentar seu trabalho e ouvir o feedback dos colegas e professor.
+   - **Imagem recomendada:** Crianças apresentando seus slides para a turma.
+
+
+#### Estimativa de Tempo por Slide:
+
+1. Início: 10 minutos  
+2. Criando os Primeiros Slides: 10 minutos  
+3. Inserindo Imagens e Elementos Visuais: 15 minutos  
+4. Personalizando com Formatação de Texto e Cores: 10 minutos  
+5. Adicionando Animações e Transições: 15 minutos  
+6. Apresentação dos Projetos: 30 minutos  
+7. Encerramento: 10 minutos  
+
+
+**Estimativa Total de Tempo: 100 minutos (1h40)**
 

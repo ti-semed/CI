@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -123,4 +123,4 @@ Desenhar e colorir um computador, identificando as partes que aprenderam, para c
 8. **Atividade Prática** - 20 minutos
 9. **Revisão do Conteúdo** - 6 minutos
 
-Total estimado: 55 minutos
+**Estimativa Total de Tempo: 55 minutos**

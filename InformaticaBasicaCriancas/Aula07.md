@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -133,3 +133,4 @@ Introduzir as crianças ao uso de ferramentas digitais para desenho e pintura, p
 - Apresentação dos Desenhos: 20 minutos.
 - Conclusão e Encerramento: 10 minutos.
 
+**Estimativa Total de Tempo: 90 minuto (1h30)**

@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -123,6 +123,9 @@ Capacitar as crianças a explorar jogos educativos online que reforçam o aprend
 5. Discussão e Reflexão (Slides 8-9): 15 minutos.
 6. Encerramento (Slide 10): 5 minutos.
 
+**Estimativa Total de Tempo: 100 minutos (1h40)**
+
+---
 
 #### Introdução ao Material Didático: Jogos Educativos Online
 

@@ -1,5 +1,5 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
@@ -136,4 +136,4 @@ Capacitar as crianças a utilizarem vídeos do YouTube e sites educativos como f
 8. Dicas de navegação segura – 5 minutos.
 9. Conclusão e discussão – 6 minutos.
 
-**Tempo total previsto: 75 minutos (1h15)**
+**Estimativa Total de Tempo: 75 minutos (1h15)**

@@ -154,7 +154,7 @@ Ao capacitar os alunos para o mercado de trabalho e contribuir para o desenvolvi
 
 A Casa da Inovação segue firme em seu compromisso de transformar a educação e oferecer novas oportunidades aos alunos de Nova Iguaçu. Estamos certos de que, por meio da inclusão digital e do acesso às tecnologias, seremos capazes de formar cidadãos mais preparados para enfrentar os desafios do futuro. Continuaremos trabalhando para garantir que este projeto seja uma referência de inovação e impacto positivo na vida de todos os envolvidos.
 
-Nova iguaçu, 06 de Setembro de 2024.
+Nova Iguaçu, 06 de Setembro de 2024.
 
 **Marcelo Darck Ferreira** <br>
 Coordenador da Casa de Inovação  <br>
