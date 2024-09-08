@@ -100,17 +100,6 @@ Desenhar e colorir um computador, identificando as partes que aprenderam, para c
    - **Imagem recomendada:** Ilustração de um computador com as partes destacadas.
 
 
-#### Explicação Detalhada dos Tópicos:
-
-1. **Monitor:** A função do monitor é essencial para a interação visual. Mostre aos alunos que o monitor exibe imagens, vídeos, e todo o conteúdo do computador, assim como uma televisão. Durante a explicação, pergunte: "Quem já viu uma TV? O que ela mostra?"
-
-2. **Teclado:** As crianças são incentivadas a explorar o teclado, tocando nas teclas e observando os resultados na tela. Explique que o teclado é uma das principais formas de comunicação com o computador e peça que escrevam palavras simples. Exemplos práticos como "digite seu nome" ajudam a associar o uso real.
-
-3. **Mouse:** Mostre que o mouse funciona como uma extensão da mão, permitindo clicar em ícones e mover objetos na tela. Demonstre diferentes cliques (simples e duplo), reforçando com a prática individual.
-
-4. **CPU:** Para uma faixa etária jovem, explicar a CPU como o "cérebro" do computador facilita a compreensão. Faça a analogia com o corpo humano e como o cérebro controla todas as funções. Durante a aula, apresente uma CPU real ou uma imagem que mostre como ela se parece.
-
-
 #### Estimativa de Tempo por Slide:
 
 1. **Título** - 2 minutos
@@ -124,3 +113,15 @@ Desenhar e colorir um computador, identificando as partes que aprenderam, para c
 9. **Revisão do Conteúdo** - 6 minutos
 
 **Estimativa Total de Tempo: 55 minutos**
+
+---
+
+#### Explicação Detalhada dos Tópicos:
+
+1. **Monitor:** A função do monitor é essencial para a interação visual. Mostre aos alunos que o monitor exibe imagens, vídeos, e todo o conteúdo do computador, assim como uma televisão. Durante a explicação, pergunte: "Quem já viu uma TV? O que ela mostra?"
+
+2. **Teclado:** As crianças são incentivadas a explorar o teclado, tocando nas teclas e observando os resultados na tela. Explique que o teclado é uma das principais formas de comunicação com o computador e peça que escrevam palavras simples. Exemplos práticos como "digite seu nome" ajudam a associar o uso real.
+
+3. **Mouse:** Mostre que o mouse funciona como uma extensão da mão, permitindo clicar em ícones e mover objetos na tela. Demonstre diferentes cliques (simples e duplo), reforçando com a prática individual.
+
+4. **CPU:** Para uma faixa etária jovem, explicar a CPU como o "cérebro" do computador facilita a compreensão. Faça a analogia com o corpo humano e como o cérebro controla todas as funções. Durante a aula, apresente uma CPU real ou uma imagem que mostre como ela se parece.

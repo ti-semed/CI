@@ -1,135 +1,167 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
 SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
-### **Curso Básico de Informática para Adolescentes e Adultos - 22 horas**
-
-### Módulo 2 - **Navegação na Internet e Práticas Seguras**
+## **Módulo 2: Navegação na Internet e Práticas Seguras (3 horas)**
 
 #### **Objetivo:**
-Ensinar os alunos a navegar na internet de forma eficiente e segura, destacando a importância da proteção de dados pessoais e as melhores práticas para evitar fraudes online. A aula combina explicações teóricas com atividades práticas, visando a aplicação imediata dos conceitos.
+Apresentar aos alunos os fundamentos da navegação na internet, explicar como funcionam os navegadores e os motores de busca, e ensinar práticas de segurança para proteger dados pessoais durante a navegação online.
+
+#### **Estrutura da Aula:**
+
+**1. Início (10 minutos)**
+
+**Diálogo do professor:**
+"Bom dia! Hoje vamos aprender sobre algo que usamos todos os dias: a internet. Quem aqui costuma usar a internet no celular ou no computador? E quem já teve problemas com vírus ou sites perigosos? A internet é uma ferramenta poderosa, mas precisa ser usada com cuidado. Vamos aprender como navegar com segurança e eficiência."
+
+**Explicação:**
+Nesta introdução, o professor deve explicar brevemente os objetivos do módulo:
+- Como utilizar navegadores para acessar a internet.
+- Como usar os motores de busca para encontrar informações de forma eficiente.
+- Quais são as melhores práticas para manter a segurança online e proteger dados pessoais.
+
+**Atividade Interativa:**
+Perguntar aos alunos como costumam usar a internet e se já tiveram experiências negativas, como phishing ou vírus, para criar um ponto de partida que engaje a turma.
+
+**2. Fundamentos da Navegação (40 minutos)**
+
+**Diálogo do professor:**
+“Vamos começar entendendo como usamos a internet. Quando você abre um navegador, como o Google Chrome ou o Mozilla Firefox, ele é a ferramenta que te conecta ao mundo online. O navegador recebe e exibe as informações dos sites que você visita. Vamos explorar como isso funciona.”
+
+**Explicação:**
+- **Navegadores:** O professor deve explicar o que é um navegador e sua função de exibir conteúdos da internet. Exemplifique com navegadores populares (Chrome, Firefox, Edge) e como eles funcionam para carregar sites.
+  
+  Exemplo prático: Mostre como abrir um navegador, acessar um site e o que acontece nos bastidores (solicitação de páginas da web e resposta do servidor).
+  
+- **Barra de Endereços:** Explique como a barra de endereços é usada para digitar URLs (endereços de sites) e como ela pode sugerir sites previamente visitados.
+  
+  Exemplo prático: Demonstrar a diferença entre digitar um endereço de site direto (www.exemplo.com) e usar a barra de busca para pesquisar.
+  
+- **Navegação em Abas:** Explicar o conceito de navegação em abas, permitindo que os alunos possam abrir e gerenciar várias páginas ao mesmo tempo.
+
+  Exemplo prático: Abrir várias abas e navegar entre elas, mostrando como isso pode ajudar a organizar o uso da internet.
+
+**Atividade Interativa:**
+Peça aos alunos que abram seus navegadores, digitem o endereço de um site específico e abram três abas diferentes para explorar o conteúdo. Eles podem comparar as funcionalidades dos sites.
+
+**3. Uso de Motores de Busca (30 minutos)**
+
+**Diálogo do professor:**
+"Agora que sabemos como navegar, vamos falar sobre como encontrar o que estamos procurando. É aqui que entram os motores de busca, como o Google. Eles são ferramentas poderosas, mas é importante saber usá-los para obter as informações corretas rapidamente."
+
+**Explicação:**
+- **O que são motores de busca:** Explicar o que é um motor de busca (Google, Bing) e como ele indexa informações de sites na internet para exibir resultados relevantes para as pesquisas dos usuários.
+  
+  Exemplo prático: Demonstrar como uma pesquisa funciona no Google e como os resultados são apresentados (links, descrições e URLs).
+  
+- **Palavras-chave:** Ensinar os alunos a usar palavras-chave apropriadas e específicas para obter resultados mais precisos.
+  
+  Exemplo prático: Comparar pesquisas amplas e específicas ("restaurantes" vs. "restaurantes italianos em São Paulo").
+  
+- **Filtros e Ferramentas de Busca:** Explicar como usar ferramentas de busca avançada, como filtros de data, tipo de conteúdo (imagens, vídeos) e localização.
+  
+  Exemplo prático: Demonstrar como buscar por imagens e como usar a ferramenta de pesquisa por tempo (última semana, último mês).
+
+**Atividade Interativa:**
+Peça aos alunos para realizarem três pesquisas diferentes usando palavras-chave específicas e mostrar como os resultados variam de acordo com os termos utilizados. Incentive-os a usar as ferramentas avançadas de busca.
 
 
-**1. Introdução (10 minutos)**
+**4. Segurança Online e Proteção de Dados (40 minutos)**
 
-**Professor:**
-"Bem-vindos à aula de hoje! O nosso objetivo é aprender como navegar na internet de maneira segura, evitando fraudes e protegendo as suas informações. A internet faz parte do nosso dia a dia e, ao longo dessa aula, vamos entender como usá-la de forma eficiente e sem colocar nossa segurança em risco."
+**Diálogo do professor:**
+"Agora que sabemos navegar e buscar informações, vamos falar sobre algo muito importante: segurança online. Existem muitos perigos na internet, e precisamos nos proteger deles. Vamos aprender como evitar fraudes, vírus e proteger nossas informações pessoais."
 
-**Apresentação do Slide 1:**
-- **Título:** Navegação na Internet e Práticas Seguras.
-- **Subtítulo:** Módulo 2 do Curso Básico de Informática.
-- **Imagem:** Gráfico de crescimento do uso da internet.
+**Explicação:**
+- **Senhas Fortes:** Explique a importância de criar senhas fortes e seguras, com uma combinação de letras, números e símbolos. Fale sobre a necessidade de não reutilizar senhas em múltiplos sites.
+  
+  Exemplo prático: Mostre exemplos de senhas fortes e fracas e ferramentas para gerar senhas seguras.
+  
+- **Phishing:** Explique o que são golpes de phishing (e-mails e sites falsos que tentam roubar informações) e como identificá-los.
+  
+  Exemplo prático: Mostre exemplos de e-mails fraudulentos e compare com e-mails legítimos, destacando sinais de alerta (erros de ortografia, links suspeitos).
+  
+- **Antivírus e Atualizações:** Explique a importância de manter o sistema operacional e o antivírus atualizados para proteger contra ameaças.
+  
+  Exemplo prático: Mostre como verificar se o antivírus está ativo e como realizar atualizações do sistema.
 
-**Explique:**
-- Mostre o gráfico e discuta com os alunos o impacto da internet na sociedade atual, destacando o número crescente de usuários e a necessidade de adotar práticas seguras ao navegar.
+- **Navegação Segura (HTTPS):** Ensinar os alunos a identificar sites seguros (com o cadeado HTTPS) e a evitar inserir informações pessoais em sites não seguros.
+  
+  Exemplo prático: Mostre a diferença entre sites HTTP e HTTPS e como garantir que estão navegando em sites seguros.
 
-
-**2. Fundamentos da Navegação na Internet (20 minutos)**
-
-**Professor:**
-"Agora, vamos entender como a navegação na internet funciona, quais ferramentas utilizamos e como podemos otimizar nossas pesquisas."
-
-**Apresentação do Slide 2:**
-- **Tópicos:**
-  - O que é um navegador de internet?
-  - Principais navegadores: Google Chrome, Mozilla Firefox, Microsoft Edge, Safari.
-  - Motores de busca: Google, Bing, Yahoo.
-  - Uso de palavras-chave nas pesquisas.
-
-**Explique:**
-- **Navegadores de internet:** São os programas que utilizamos para acessar a web. Eles leem o código dos sites e os transformam em uma interface visual que podemos usar. Exemplos incluem Google Chrome, Firefox e Edge. Pergunte aos alunos: "Quem aqui já usou mais de um navegador? Sentiram diferença?"
-- **Motores de busca:** São ferramentas que nos ajudam a encontrar informações na web. O mais comum é o Google, mas também temos o Bing e o Yahoo. Use o exemplo de uma pesquisa rápida para mostrar como funciona.
-- **Uso de palavras-chave:** Ensine a técnica de utilizar termos específicos para refinar as buscas. Exemplo: "Se eu pesquisar 'receita bolo' no Google, posso encontrar de tudo. Agora, se eu digitar 'receita bolo de chocolate fácil', os resultados são mais relevantes."
-
-**Atividade Prática 1 (10 minutos):**
-- Peça aos alunos para realizarem uma pesquisa sobre um tema de interesse no Google, utilizando diferentes palavras-chave para ver como os resultados mudam.
-- **Discussão em grupo:** Os alunos compartilham os resultados e discutem a eficiência das palavras-chave utilizadas.
+**Atividade Interativa:**
+Peça aos alunos para criarem uma senha segura seguindo os critérios ensinados. Em seguida, mostre exemplos de e-mails ou sites falsos e reais, e peça para que eles identifiquem possíveis sinais de fraude.
 
 
-**3. Segurança Online - Conceitos Básicos (25 minutos)**
+**5. Atividade Prática: Pesquisa Segura na Internet (30 minutos)**
 
-**Professor:**
-"A seguir, vamos falar sobre segurança online. Muitas vezes, enquanto navegamos, podemos nos deparar com ameaças que colocam nossos dados em risco. Vou mostrar como vocês podem se proteger."
+**Diálogo do professor:**
+"Agora, vamos juntar tudo o que aprendemos. Vamos fazer uma pesquisa na internet de forma eficiente e segura. Lembrem-se de usar palavras-chave específicas e de garantir que o site que vocês estão acessando é seguro."
 
-**Apresentação do Slide 3:**
-- **Tópicos:**
-  - O que são cookies e como eles afetam sua privacidade.
-  - Identificando sites seguros (uso de HTTPS e cadeado de segurança).
-  - Fraudes comuns online: phishing.
-  - Criando senhas seguras.
+**Explicação:**
+Os alunos serão convidados a realizar uma pesquisa online sobre um tema relacionado ao curso. Eles deverão identificar um site confiável e seguro, aplicar os conhecimentos de palavras-chave e usar as ferramentas de busca avançada.
 
-**Explique:**
-- **Cookies:** São pequenos arquivos que os sites armazenam no seu computador. Eles ajudam a lembrar suas preferências, mas também podem ser usados para rastrear suas atividades online. Mostre como gerenciar os cookies no navegador (demonstre no Google Chrome).
-- **Sites seguros:** Explique a diferença entre "HTTP" e "HTTPS". Os sites seguros têm um cadeado na barra de endereços, o que significa que a conexão é criptografada. Mostre exemplos ao vivo de um site com e sem HTTPS.
-- **Phishing:** Golpes que usam e-mails falsos para roubar suas informações pessoais. Mostre exemplos de e-mails fraudulentos e peça aos alunos que identifiquem sinais de alerta (como erros gramaticais e links suspeitos).
-- **Senhas seguras:** Mostre as características de uma senha forte: no mínimo 12 caracteres, combinação de letras maiúsculas, minúsculas, números e símbolos. Explique o uso de gerenciadores de senhas.
-
-**Atividade Prática 2 (15 minutos):**
-- Peça aos alunos que criem senhas fictícias usando as diretrizes apresentadas e testem a força delas em um verificador de senhas online. Discuta como diferentes combinações de caracteres afetam a segurança da senha.
-
-**4. Práticas Seguras na Internet (20 minutos)**
-
-**Professor:**
-"Agora que já entendemos como navegar e reconhecer sites seguros, vamos falar sobre boas práticas que podemos adotar para nos manter protegidos no dia a dia."
-
-**Apresentação do Slide 4:**
-- **Tópicos:**
-  - Mantenha o navegador e o sistema operacional atualizados.
-  - Não compartilhe informações pessoais em redes Wi-Fi públicas.
-  - Evite baixar arquivos de sites desconhecidos.
-  - Use antivírus e ferramentas de proteção.
-
-**Explique:**
-- **Atualizações de software:** São essenciais para corrigir falhas de segurança. Mostre como verificar se o navegador está atualizado no Google Chrome.
-- **Redes Wi-Fi públicas:** Ao acessar redes públicas, como as de cafés ou shoppings, suas informações podem ser interceptadas por hackers. Explique como uma VPN (Rede Virtual Privada) pode ajudar a proteger a conexão.
-- **Downloads seguros:** Baixar arquivos de sites desconhecidos pode infectar o computador com vírus. Ensine os alunos a sempre verificar a reputação do site antes de fazer downloads.
-- **Antivírus e firewall:** Discuta a importância de manter um programa antivírus atualizado e como ele pode bloquear ameaças antes que causem danos.
-
-**Atividade Prática 3 (15 minutos):**
-- Divida os alunos em grupos e peça que cada grupo elabore uma lista de boas práticas para proteger informações em redes públicas de Wi-Fi. Eles podem compartilhar suas listas e discutir as ideias na classe.
+**Atividade Interativa:**
+Divida os alunos em grupos pequenos e peça que cada grupo faça uma pesquisa diferente (exemplo: buscar informações sobre um assunto atual ou dados específicos). Cada grupo deverá verificar a segurança do site e compartilhar os resultados com a turma, explicando como chegaram àquele site e por que o consideram confiável.
 
 
-**5. Atividade Prática 4: Identificando Sites Seguros (15 minutos)**
+**6. Revisão e Discussão Final (30 minutos)**
 
-**Apresentação do Slide 6:**
-- **Tópicos:**
-  - Acesse dois sites: um com HTTPS e outro sem.
-  - Identifique as diferenças e discuta os riscos de acessar sites não seguros.
+**Diálogo do professor:**
+"Antes de terminarmos, vamos revisar o que aprendemos hoje. Quem pode me dizer o que é mais importante para se lembrar ao navegar na internet? O que mais vocês aprenderam sobre segurança online?"
 
-**Explique:**
-- Mostre a importância de acessar apenas sites seguros com HTTPS e peça aos alunos que identifiquem as diferenças entre um site com HTTPS (cadeado, "https://") e outro sem essa segurança.
+**Explicação:**
+A revisão deve cobrir os principais tópicos abordados na aula, como os fundamentos da navegação, o uso de motores de busca e as práticas de segurança online.
 
-
-**6. Conclusão e Perguntas (15 minutos)**
-
-**Professor:**
-"Hoje, cobrimos muitos tópicos importantes sobre segurança online. Agora, quero ouvir de vocês: ficaram com alguma dúvida? Alguma situação específica que já enfrentaram e não sabiam como resolver?"
-
-**Apresentação do Slide 8:**
-- **Tópicos:**
-  - Recapitulação dos principais conceitos: navegação segura, phishing, criação de senhas fortes.
-  - Sessão de perguntas e respostas.
-
-**Explique:**
-- Recapitule rapidamente os principais pontos abordados durante a aula e abra espaço para perguntas. Incentive os alunos a compartilhar suas próprias experiências com segurança online ou suas dúvidas sobre o conteúdo.
-
-**Atividade Final:**
-- Para encerrar, peça aos alunos que deem exemplos práticos de como vão aplicar as práticas de segurança que aprenderam na aula em suas vidas digitais.
+**Atividade Interativa:**
+Promova uma discussão aberta onde os alunos compartilhem suas principais lições do dia. Incentive perguntas sobre situações específicas e desafios que eles possam enfrentar ao navegar na internet. Responda às dúvidas e reforce os conceitos.
 
 
-#### **Estimativa de Tempo:**
+#### **Esboço da Apresentação:**
 
-1. **Introdução e Fundamentos da Navegação** – 30 minutos
-2. **Segurança Online - Conceitos Básicos** – 25 minutos
-3. **Práticas Seguras na Internet** – 20 minutos
-4. **Atividade Prática 1 (Pesquisa na Internet)** – 10 minutos
-5. **Atividade Prática 2 (Senhas Seguras)** – 15 minutos
-6. **Atividade Prática 3 (Wi-Fi Público)** – 15 minutos
-7. **Atividade Prática 4 (Identificando Sites Seguros)** – 15 minutos
-8. **Conclusão e Perguntas** – 15 minutos
+1. **Título e Objetivos:**
+   - **Conteúdo:** "O que vamos aprender hoje?"
+   - **Explicação:** Apresentar os objetivos da aula: aprender a navegar de forma eficiente e segura na internet, usando navegadores e motores de busca.
+   - **Imagem recomendada:** Imagem de um navegador aberto.
 
-**Tempo Total Estimado**: 2 horas e 15 minutos
+2. **Navegadores:**
+   - **Conteúdo:** "O que é um navegador e como ele funciona?"
+   - **Explicação:** Explicar o papel dos navegadores na internet (Chrome, Firefox). Barra de endereços, abas e principais funções.
+   - **Imagem recomendada:** Captura de tela de um navegador com exemplos de funções como barra de endereços e navegação em abas.
+
+3. **Motores de Busca:**
+   - **Conteúdo:** "Como encontramos informações online?"
+   - **Explicação:** Introdução aos motores de busca, como Google. Usar palavras-chave para encontrar resultados precisos.
+   - **Imagem recomendada:** Captura de tela de uma pesquisa no Google, mostrando resultados.
+
+4. **Segurança Online:**
+   - **Conteúdo:** "Como nos protegemos na internet?"
+   - **Explicação:** Práticas de segurança: criação de senhas, phishing, antivírus e navegação segura.
+   - **Imagem recomendada:** Exemplo de um e-mail fraudulento (phishing) e um legítimo, destacando as diferenças.
+
+5. **Atividade Prática:**
+   - **Conteúdo:** "Vamos
+
+ praticar!"
+   - **Explicação:** Instruções para que os alunos realizem uma pesquisa segura e eficiente na internet.
+   - **Imagem recomendada:** Passo a passo visual de como realizar uma pesquisa com segurança e verificar se o site é seguro (HTTPS).
+
+6. **Revisão e Discussão Final:**
+   - **Conteúdo:** "O que aprendemos hoje?"
+   - **Explicação:** Revisão dos principais conceitos e espaço para perguntas e discussão.
+   - **Imagem recomendada:** Ícones de perguntas e respostas para incentivar a interação.
+
+
+#### **Estimativa de Tempo por Slide:**
+
+1. **Introdução e Objetivos:** 10 minutos  
+2. **Navegadores:** 40 minutos  
+3. **Motores de Busca:** 30 minutos  
+4. **Segurança Online:** 40 minutos  
+5. **Atividade Prática:** 30 minutos  
+6. **Revisão e Discussão Final:** 30 minutos  
+
+**Estimativa Total de Tempo:** 180 minutos (3 horas)
 

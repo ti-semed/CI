@@ -1,135 +1,166 @@
-<img src="Imagem/logopcni.png" align="right" style="margin-top:5px; " />
-<img src="Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
+<img src="../Imagem/logopcni.png" align="right" style="margin-top:5px; " />
+<img src="../Imagem/logoCasaInovacao.png" align="right" style="margin-top:5px;margin-right:20px" />
 
 **PREFEITURA DA CIDADE DE NOVA IGUAÇU** <br>
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
 SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
-### **Curso Básico de Informática para Adolescentes e Adultos - 22 horas**
+## **Curso Básico de Informática para Adolescentes e Adultos - 22 horas**
 
 ### **Módulo 3: Gerenciamento de Arquivos e Organização Digital (2 horas)**
 
- #### **Objetivo**: 
- Ensinar os alunos a organizar seus arquivos digitais de maneira eficiente, tanto localmente quanto em serviços de armazenamento em nuvem.
+#### **Objetivo:**
+Ensinar aos alunos como organizar e gerenciar seus arquivos digitais de forma eficiente, utilizando tanto o sistema local quanto ferramentas de armazenamento em nuvem. Ao final, os alunos serão capazes de criar, organizar, renomear e mover arquivos e pastas, além de utilizar serviços de armazenamento em nuvem para salvar e compartilhar arquivos.
 
-#### **1. Introdução ao Gerenciamento de Arquivos (10 minutos)**
 
-**Diálogo do Professor**:
-“Hoje, vamos aprender uma habilidade muito importante: como organizar nossos arquivos de forma eficiente. Isso nos ajuda a economizar tempo e a encontrar o que precisamos rapidamente, seja no nosso computador ou em serviços de armazenamento na nuvem. Quem aqui já teve dificuldade para encontrar um arquivo salvo?”
+#### **Estrutura da Aula:**
 
-**Explicação**:
-- A importância de uma boa organização digital.
-- Exemplos de problemas que podem surgir sem uma organização adequada: perda de documentos importantes, dificuldade em encontrar arquivos rapidamente, e uso de armazenamento desnecessário.
+**1. Início (10 minutos)**
 
-**Atividade Interativa**:
-- Perguntar aos alunos: “Que tipos de documentos vocês costumam salvar no computador? E onde os armazenam?”
-- Discutir diferentes abordagens que os alunos já utilizam.
+**Diálogo do professor:**  
+"Bom dia! Hoje vamos aprender algo fundamental para quem usa o computador: como organizar nossos arquivos. Pensem em quantos documentos, fotos, vídeos e outros arquivos vocês têm no computador. Já ficou difícil encontrar algum arquivo importante? Se sim, hoje vocês vão aprender a organizar tudo de forma eficiente, criando pastas e subpastas, e até como usar a nuvem para guardar arquivos de forma segura."
 
-#### **2. Organização de Arquivos Locais (30 minutos)**
+**Explicação:**  
+A introdução deve preparar os alunos para entender a importância de organizar arquivos de maneira adequada. O professor deve explicar que uma boa organização de arquivos facilita o acesso rápido a documentos e evita a perda de dados importantes. Além disso, será abordada a organização em nuvem, um recurso útil tanto para segurança quanto para compartilhamento de arquivos.
 
-**Diálogo do Professor**:
-“Vamos começar organizando nossos arquivos locais. Vou mostrar como criar pastas, nomeá-las corretamente e manter tudo em ordem no computador.”
+**Atividade Interativa:**  
+Pergunte aos alunos quantos arquivos eles costumam ter no computador e quantas vezes já perderam ou não encontraram algo importante. Isso cria uma conexão com a realidade deles e destaca a importância do gerenciamento eficiente.
 
-**Explicação**:
-- Como criar, nomear e organizar pastas de forma lógica (exemplo: nomear pastas por categorias como “Trabalho”, “Estudos”, “Fotos”).
-- Uso de subpastas para subdividir categorias (exemplo: dentro de “Estudos”, criar subpastas para cada disciplina ou projeto).
-- Práticas recomendadas para nomear arquivos (uso de datas, descrições claras, evitar caracteres especiais).
+
+**2. Organização de Arquivos Locais (40 minutos)**
+
+**Diálogo do professor:**  
+“Vamos começar organizando nossos arquivos dentro do próprio computador. A melhor maneira de fazer isso é criar pastas e subpastas para manter tudo separado e fácil de encontrar. Imagine que o seu computador é uma grande gaveta, e cada pasta é uma caixinha onde você guarda coisas específicas. Vamos aprender como criar e nomear essas pastas.”
+
+**Explicação:**  
+- **Criação de Pastas:** Ensine os alunos a criar pastas no sistema operacional. Explique que as pastas podem ser usadas para organizar arquivos por tema, projeto ou tipo de arquivo (fotos, documentos, vídeos, etc.).
   
-**Atividade Prática**:
-- Pedir aos alunos para criarem uma estrutura de pastas em seus computadores, seguindo as orientações dadas. Cada aluno deve criar pastas para “Documentos”, “Imagens” e “Trabalho”, e dentro de cada uma delas, criar subpastas relacionadas ao seu cotidiano.
+  Exemplo prático: Mostre como criar uma pasta clicando com o botão direito do mouse na área de trabalho ou dentro do explorador de arquivos e selecionando "Nova Pasta". Peça aos alunos que criem uma pasta chamada "Meus Documentos".
   
-#### **3. Introdução ao Armazenamento em Nuvem (30 minutos)**
+- **Nomeação e Renomeação de Pastas e Arquivos:** Explique a importância de dar nomes claros e descritivos para arquivos e pastas, facilitando a identificação futura. Mostre como renomear arquivos e pastas.
+  
+  Exemplo prático: Renomeie um arquivo genérico como "Relatório_2024" e explique por que é importante usar datas ou descrições nos nomes dos arquivos.
+  
+- **Movimentação de Arquivos:** Mostre como mover arquivos de uma pasta para outra, utilizando o método de "arrastar e soltar" ou copiar e colar.
 
-**Diálogo do Professor**:
-“Agora que já organizamos nossos arquivos no computador, vamos falar sobre o armazenamento em nuvem. Vocês sabem o que é a nuvem? Quais as vantagens de salvar seus arquivos online?”
+  Exemplo prático: Demonstre como mover um arquivo da pasta "Downloads" para a pasta "Meus Documentos" e explique como isso ajuda a manter o computador organizado.
 
-**Explicação**:
-- Definição de armazenamento em nuvem e como ele funciona.
-- Vantagens do armazenamento em nuvem: acesso remoto, segurança dos dados (backup), facilidade para compartilhar arquivos.
-- Introdução ao Google Drive como exemplo prático: upload de arquivos, criação de pastas, compartilhamento de links.
+**Atividade Interativa:**  
+Peça aos alunos que criem uma estrutura de pastas dentro de "Meus Documentos" para organizar diferentes tipos de arquivos, como "Trabalho", "Estudos" e "Fotos". Eles devem mover arquivos para essas pastas e renomeá-los de forma apropriada.
 
-**Atividade Prática**:
-- Cada aluno deve fazer o upload de um documento de seu computador para o Google Drive, criar uma nova pasta na nuvem, e compartilhar o link de um arquivo com um colega.
 
-#### **4. Comparando Arquivos Locais e Armazenamento em Nuvem (20 minutos)**
+**3. Armazenamento em Nuvem (30 minutos)**
 
-**Diálogo do Professor**:
-“Agora que vocês experimentaram organizar arquivos tanto localmente quanto na nuvem, quais as principais diferenças que vocês perceberam? Onde preferem salvar seus arquivos?”
+**Diálogo do professor:**  
+"Agora que já sabemos como organizar nossos arquivos no computador, vamos falar sobre a nuvem. Alguém aqui já usou Google Drive ou outro serviço de nuvem? A nuvem é como um 'armário' na internet onde você pode guardar seus arquivos com segurança e acessá-los de qualquer lugar, desde que tenha internet."
 
-**Explicação**:
-- Quando é mais apropriado usar armazenamento local versus nuvem (velocidade de acesso, segurança, disponibilidade offline).
-- Discussão sobre segurança e privacidade: como proteger seus arquivos em ambos os contextos (senhas fortes, criptografia, backups).
+**Explicação:**  
+- **O que é Armazenamento em Nuvem:** Explique o conceito de nuvem e como ela funciona. Mostre que, ao contrário de salvar arquivos apenas no computador, o armazenamento em nuvem permite que os arquivos sejam acessados de qualquer dispositivo com internet, e também mantém uma cópia de segurança em caso de problemas no computador.
 
-**Atividade de Discussão**:
-- Dividir os alunos em grupos para discutir vantagens e desvantagens do armazenamento local e em nuvem, com foco em privacidade e acessibilidade.
+  Exemplo prático: Compare a nuvem com um cofre digital que pode ser acessado de diferentes lugares. Mencione serviços populares como Google Drive, OneDrive e Dropbox.
 
-#### **5. Conclusão e Revisão (10 minutos)**
+- **Vantagens da Nuvem:** Liste as vantagens do uso da nuvem, como segurança, compartilhamento fácil de arquivos com colegas, backup automático e acesso remoto.
 
-**Diálogo do Professor**:
-“Hoje vimos como organizar nossos arquivos de maneira eficiente, tanto no computador quanto na nuvem. A organização digital pode facilitar muito o nosso dia a dia, principalmente quando precisamos encontrar algo com urgência.”
+  Exemplo prático: Mostre como criar uma conta no Google Drive e como fazer upload de um arquivo.
 
-**Explicação**:
-- Recapitulação dos principais conceitos: criação de pastas, nomeação de arquivos, upload para a nuvem, compartilhamento seguro.
-- Estímulo à prática contínua: “Amanhã, tentem organizar os arquivos que vocês têm no celular ou em outros dispositivos!”.
+- **Upload e Download de Arquivos:** Ensine os alunos a enviar (upload) arquivos para a nuvem e a baixá-los (download) de volta para o computador.
 
-**Atividade Final**:
-- Os alunos devem reorganizar os arquivos em seus computadores ou na nuvem e apresentar à turma sua estrutura de pastas, explicando sua lógica.
+  Exemplo prático: Mostre como enviar um arquivo da pasta "Meus Documentos" para o Google Drive e como baixá-lo de volta. 
+
+- **Compartilhamento de Arquivos:** Explique como compartilhar arquivos armazenados na nuvem com outras pessoas, seja via link ou por e-mail.
+
+  Exemplo prático: Demonstre como compartilhar um arquivo com um colega, gerando um link de compartilhamento no Google Drive.
+
+**Atividade Interativa:**  
+Os alunos devem criar uma conta em um serviço de nuvem (Google Drive, OneDrive) e fazer o upload de um arquivo para a nuvem. Depois, eles devem compartilhar esse arquivo com um colega, gerando um link de compartilhamento.
+
+
+**4. Atividade Prática: Organização Completa (30 minutos)**
+
+**Diálogo do professor:**  
+"Agora, vamos colocar em prática tudo o que aprendemos. Vocês vão organizar seus arquivos locais e, depois, salvar uma cópia na nuvem. Dessa forma, vocês terão seus arquivos sempre seguros e organizados. Vamos fazer isso juntos!"
+
+**Explicação:**  
+A atividade prática será uma aplicação completa dos conceitos abordados na aula. Os alunos devem organizar uma pasta local, movendo arquivos, renomeando e criando uma estrutura hierárquica de pastas. Depois, devem enviar esses arquivos para a nuvem.
+
+**Atividade Interativa:**  
+Os alunos devem realizar as seguintes tarefas:
+- Organizar os arquivos em suas pastas locais (renomear e mover arquivos).
+- Fazer upload de suas pastas organizadas para a nuvem.
+- Compartilhar uma das pastas com o professor ou colegas.
+
+O professor deve circular pela sala, ajudando os alunos com dúvidas ou dificuldades durante o processo.
+
+
+**5. Revisão e Discussão Final (10 minutos)**
+
+**Diálogo do professor:**  
+“Vamos revisar o que aprendemos hoje. Quem pode me dizer qual a diferença entre organizar arquivos no computador e usar a nuvem? E por que é importante manter nossos arquivos organizados? Agora que vocês sabem usar essas ferramentas, vão ver como o dia a dia com o computador vai ficar mais fácil.”
+
+**Explicação:**  
+A revisão deve recapitular os conceitos mais importantes da aula, como a organização de arquivos locais, a criação de pastas e o uso do armazenamento em nuvem. Reforce a ideia de que uma boa organização facilita o acesso aos arquivos e que o uso da nuvem é uma excelente ferramenta para manter cópias seguras dos arquivos.
+
+**Atividade Interativa:**  
+Promova uma discussão rápida onde os alunos compartilhem suas experiências com a organização digital, mencionando as principais dificuldades que enfrentaram e como a aula ajudou a superá-las. 
 
 
 #### **Esboço da Apresentação:**
 
-**Slide 1: Título e Introdução**
-- Título: Gerenciamento de Arquivos e Organização Digital
-- Subtítulo: Módulo 3
-- Conteúdo: Introdução ao conteúdo do módulo e objetivos de aprendizado.
+1. **Título e Objetivos:**
+   - **Conteúdo:** "O que vamos aprender hoje?"
+   - **Explicação:** Apresentar os objetivos da aula: organizar arquivos locais, usar armazenamento em nuvem e manter os arquivos acessíveis e seguros.
+   - **Imagem recomendada:** Imagem de pastas digitais organizadas e um ícone de nuvem.
 
-**Slide 2: Importância da Organização de Arquivos**
-- Tópicos:
-  - Por que organizar arquivos?
-  - Exemplos de problemas causados por falta de organização.
-  - Vantagens da organização eficiente.
-- Elemento visual: Imagem de uma mesa bagunçada versus uma mesa organizada (como metáfora).
+2. **Organização de Arquivos Locais:**
+   - **Conteúdo:** "Como podemos organizar nossos arquivos?"
+   - **Explicação:** Criação de pastas, nomeação de arquivos, e movimentação de documentos no computador.
+   - **Imagem recomendada:** Captura de tela do explorador de arquivos com pastas bem organizadas.
 
-**Slide 3: Organização de Arquivos Locais**
-- Tópicos:
-  - Criar e nomear pastas.
-  - Uso de subpastas.
-  - Práticas recomendadas para nomear arquivos.
-- Elemento visual: Diagrama simples mostrando uma estrutura de pastas hierárquica.
+3. **Criação e Nomeação de Pastas:**
+   - **Conteúdo:** "Como criar pastas e dar nomes adequados?"
+   - **Explicação:** Instruções sobre a criação de pastas e a importância de nomes descritivos para facilitar a organização.
+   - **Imagem recomendada:** Passo a passo visual de como criar e renomear pastas.
 
-**Slide 4: Armazenamento em Nuvem**
-- Tópicos:
-  - O que é a nuvem?
-  - Vantagens: backup, acesso remoto, compartilhamento.
-  - Exemplos de serviços (Google Drive, OneDrive, Dropbox).
-- Elemento visual: Ícones dos principais serviços de armazenamento em nuvem.
+4. **Movimentação de Arquivos:**
+   - **Conteúdo:** "Como mover arquivos para as pastas corretas?"
+   - **Explicação:** Demonstração de como mover arquivos entre pastas usando arrastar e soltar ou copiar e colar.
+   - **Imagem recomendada:** Exemplos visuais de movimentação de arquivos no explorador de arquivos.
 
-**Slide 5: Atividade Prática**
-- Tópicos:
-  - Criar uma pasta e organizar arquivos no Google Drive.
-  - Compartilhar um arquivo com um colega.
-- Elemento visual: Captura de tela do Google Drive mostrando o processo de upload e compartilhamento.
+5. **Armazenamento em Nuvem:**
+   - **Conteúdo:** "O que é a nuvem e como usá-la?"
+   - **Explicação:** Introdução ao armazenamento em nuvem, seus benefícios e como fazer upload e download de arquivos.
+   - **Imagem recomendada:**
 
-**Slide 6: Comparação: Local vs Nuvem**
-- Tópicos:
-  - Quando usar armazenamento local?
-  - Quando usar armazenamento em nuvem?
-  - Questões de segurança e privacidade.
-- Elemento visual: Tabela comparativa entre local e nuvem (vantagens e desvantagens).
+ Ícone de nuvem e uma seta de upload.
 
-**Slide 7: Conclusão**
-- Tópicos:
-  - Revisão dos conceitos aprendidos.
-  - Próximos passos: prática contínua e organização de outros dispositivos.
-- Elemento visual: Imagem motivacional de uma pessoa organizando seus arquivos.
+6. **Upload e Download de Arquivos:**
+   - **Conteúdo:** "Como enviar e baixar arquivos da nuvem?"
+   - **Explicação:** Instruções detalhadas sobre como enviar arquivos para a nuvem e baixá-los de volta para o computador.
+   - **Imagem recomendada:** Captura de tela do Google Drive com o botão de upload destacado.
 
-#### **Estimativa de Tempo:**
+7. **Compartilhamento de Arquivos na Nuvem:**
+   - **Conteúdo:** "Como compartilhar arquivos com outras pessoas?"
+   - **Explicação:** Passo a passo para compartilhar arquivos usando serviços de nuvem, como Google Drive ou OneDrive.
+   - **Imagem recomendada:** Exemplo de link de compartilhamento gerado em um serviço de nuvem.
 
-1. **Introdução ao Gerenciamento de Arquivos** – 10 minutos (Slide 1 e 2)
-2. **Organização de Arquivos Locais** – 30 minutos (Slide 3)
-3. **Introdução ao Armazenamento em Nuvem** – 30 minutos (Slide 4 e 5)
-4. **Comparando Arquivos Locais e Nuvem** – 20 minutos (Slide 6)
-5. **Conclusão e Revisão** – 10 minutos (Slide 7)
+8. **Atividade Prática: Organização Completa:**
+   - **Conteúdo:** "Vamos praticar!"
+   - **Explicação:** Instruções para os alunos organizarem arquivos locais e enviá-los para a nuvem.
+   - **Imagem recomendada:** Passo a passo visual de organização de arquivos e upload para a nuvem.
 
-**Total**: 100 minutos (1 hora e 40 minutos)
+9. **Revisão e Discussão Final:**
+   - **Conteúdo:** "O que aprendemos hoje?"
+   - **Explicação:** Revisão dos principais conceitos e espaço para perguntas e discussão.
+   - **Imagem recomendada:** Ícones de pastas e nuvem para ilustrar a integração do armazenamento local e na nuvem.
+
+
+#### **Estimativa de Tempo por Slide:**
+
+1. **Introdução e Objetivos:** 10 minutos  
+2. **Organização de Arquivos Locais:** 40 minutos  
+3. **Armazenamento em Nuvem:** 30 minutos  
+4. **Atividade Prática: Organização Completa:** 30 minutos  
+5. **Revisão e Discussão Final:** 10 minutos  
+
+**Estimativa Total de Tempo:** 120 minutos (2 horas)
 
