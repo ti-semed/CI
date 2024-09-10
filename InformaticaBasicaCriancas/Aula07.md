@@ -7,7 +7,7 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
-### Módulo 7: Introdução ao Desenho e Pintura Digital (3h)
+### Módulo 7: Introdução ao Desenho e Pintura Digital (3 horas)
 
 #### **Objetivo do módulo:**  
 Introduzir as crianças ao uso de ferramentas digitais para desenho e pintura, promovendo a criatividade e a familiarização com softwares simples de arte digital.

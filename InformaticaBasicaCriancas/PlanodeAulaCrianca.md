@@ -5,7 +5,7 @@
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
 SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
-## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
+## Curso Básico de Informática para Crianças (6-10 anos) - 28 horas
 
 
 ### Objetivo:
@@ -76,7 +76,7 @@ Neste módulo, as crianças aprenderão a navegar na internet de forma segura. E
 - **Identificação de Sites Seguros:** Atividades que ajudam a identificar sites confiáveis e evitar sites suspeitos.
 - **Configuração de Navegadores:** As crianças aprenderão a ajustar configurações de segurança no navegador, como bloqueio de conteúdos inapropriados.
 
-#### **Módulo 5: Explorando Vídeos e Sites Educativos (5h)**
+#### **Módulo 5: Explorando Vídeos e Sites Educativos (3h)**
 **Explicação:**
 Neste módulo, as crianças aprenderão a utilizar vídeos do YouTube e sites educativos como ferramentas de apoio aos estudos escolares. Elas serão capacitadas a identificar e organizar conteúdos educativos, criando playlists e explorando recursos disponíveis em plataformas como Khan Academy Kids.
 

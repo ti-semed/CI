@@ -7,7 +7,7 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
-### **Módulo 10: Projeto Final e Apresentação**
+### Módulo 10: Projeto Final e Apresentação (2 horas)
 
 #### **Objetivo:**
 Consolidar o aprendizado dos módulos anteriores através de um projeto final criativo, onde as crianças irão aplicar as habilidades adquiridas ao longo do curso. Ao final, cada aluno apresentará o seu projeto para a turma.

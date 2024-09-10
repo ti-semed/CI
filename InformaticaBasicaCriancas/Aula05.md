@@ -7,7 +7,7 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
-### Módulo 5: Explorando Vídeos e Sites Educativos
+### Módulo 5: Explorando Vídeos e Sites Educativos (3 horas)
 
 #### **Objetivo:**
 Capacitar as crianças a utilizarem vídeos do YouTube e sites educativos como ferramentas de apoio para seus estudos. Elas aprenderão a encontrar, organizar e utilizar esses recursos de forma eficiente, criando playlists e explorando plataformas como Khan Academy Kids.

@@ -8,7 +8,7 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
 
-### Módulo 9: Apresentações e Criatividade com Google Slides
+### Módulo 9: Apresentações e Criatividade com Google Slides (3 horas)
 
 
 #### Objetivo:

@@ -5,7 +5,7 @@
 **SECRETARIA MUNICIPAL DE EDUCAÇÃO** <br>
 SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
-## **Curso Básico de Informática para Adolescentes e Adultos - 22 horas**
+## **Curso Básico de Informática para Adolescentes e Adultos - 24 horas**
 
 ### **Objetivo:**
 

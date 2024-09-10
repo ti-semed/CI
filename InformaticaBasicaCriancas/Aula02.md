@@ -7,7 +7,7 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
-### Módulo 2: Exploração do Sistema Operacional (Windows e Linux Mint)
+### Módulo 2: Exploração do Sistema Operacional (Windows e Linux Mint) (2 horas)
 
 #### **Objetivo:**
 Capacitar as crianças a interagir com diferentes sistemas operacionais, entendendo suas funções básicas e como usá-los para tarefas cotidianas.

@@ -7,7 +7,7 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
-### Módulo 6: Jogos Educativos e Aprendizado Lúdico
+### Módulo 6: Jogos Educativos e Aprendizado Lúdico (4 horas)
 
 #### **Objetivo:**
 Capacitar as crianças a explorar jogos educativos online que reforçam o aprendizado em diversas áreas, como matemática, ciências e leitura, utilizando o aprendizado lúdico para complementar o conteúdo escolar.

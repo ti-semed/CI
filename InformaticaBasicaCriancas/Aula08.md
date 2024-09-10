@@ -7,7 +7,7 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
-### Módulo 8: Introdução à Digitação e Processador de Texto (Google Docs)
+### Módulo 8: Introdução à Digitação e Processador de Texto (Google Docs) (3 horas)
 
 #### Objetivo:
 Desenvolver a coordenação motora e habilidades básicas de digitação, além de introduzir as crianças ao uso do Google Docs para criação de documentos simples.

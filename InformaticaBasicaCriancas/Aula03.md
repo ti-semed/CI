@@ -7,7 +7,7 @@ SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO <br>
 
 ## Curso Básico de Informática para Crianças (6-10 anos) - 23 horas
 
-### Módulo 3: Gerenciamento de Arquivos
+### Módulo 3: Gerenciamento de Arquivos (2 horas)
 
 #### **Objetivo:**
 Ensinar as crianças a organizar seus arquivos de maneira simples e eficaz, desenvolvendo habilidades básicas de gerenciamento digital que serão úteis para suas atividades acadêmicas e pessoais.
